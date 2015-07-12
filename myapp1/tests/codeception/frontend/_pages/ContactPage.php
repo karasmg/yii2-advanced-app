@@ -6,7 +6,7 @@ use yii\codeception\BasePage;
 
 /**
  * Represents contact page
- * 
+ *
  * @property \codeception_frontend\AcceptanceTester|\codeception_frontend\FunctionalTester $actor
  */
 class ContactPage extends BasePage {
